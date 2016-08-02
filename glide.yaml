@@ -1,0 +1,3 @@
+package: github.com/gtrevg/vproject-submodule
+import:
+- package: github.com/Comcast/golang-money
